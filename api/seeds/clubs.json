@@ -1,0 +1,89 @@
+[{
+  "name": "Prince Arthur",
+  "description": "hwllo ahdja jashd jdadh asjdla lakjda",
+  "image": "http://facehoff.herokuapp.com/200/200",
+  "website": "http://beer.com",
+  "numberOfTables": "9",
+  "address": "127 Shoreditch High Street, London E1 6JE",
+  "keg": "yes",
+  "lat": 51.526298,
+  "lng": -0.078425
+}, 
+{
+  "name": "Strongroom Bar",
+  "description": "hwllo ahdja jashd jdadh asjdla lakjdas",
+  "image": "http://facehoff.herokuapp.com/200/200",
+  "website": "http://www.strongroombar.com",
+  "numberOfTables": "1",
+  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "keg": "no",
+  "lat": 51.525964,
+  "lng": -0.080139
+},
+{
+  "name": "Anb",
+  "description": "Mehwllo ahdja jashd jdadh asjdla lakjda",
+  "image": "http://facehoff.herokuapp.com/200/200",
+  "website": "http://beer.com",
+  "numberOfTables": "8",
+  "address": "26 Marcon Place, London E8 1LP",
+  "keg": "yes",
+  "lat": 51.548223,
+  "lng": -0.060249
+},
+{
+  "name": "Cack",
+  "description": "Chwllo ahdja jashd jdadh asjdla lakjdalia",
+  "image": "http://facehoff.herokuapp.com/200/200",
+  "website": "http://beer.com",
+  "numberOfTables": "3",
+  "address": "43 Exmouth Market, London EC1R 4QL",
+  "keg": "yes",
+  "lat": 51.526017,
+  "lng": -0.109191
+},
+{
+  "name": "Wuse",
+  "description": "Ehwllo ahdja jashd jdadh asjdla lakjdaends",
+  "image": "http://facehoff.herokuapp.com/200/200",
+  "website": "http://beer.com",
+  "numberOfTables": "1",
+  "address": "79 Westow Hill, London SE19 1TX",
+  "keg": "no",
+  "lat": 51.420001,
+  "lng": -0.078902
+},
+{
+  "name": "Stavern",
+  "description": "Quirky hwllo ahdja jashd jdadh asjdla lakjdaal beers",
+  "image": "http://facehoff.herokuapp.com/200/200",
+  "website": "http://beer.com",
+  "numberOfTables": "1",
+  "address": "2-4 Crouch Hill, London N4 4AU",
+  "keg": "no",
+  "lat": 51.570804,
+  "lng": -0.115472
+},
+{
+  "name": "Caiars",
+  "description": "Exposhwllo ahdja jashd jdadh asjdla lakjdaand foosball",
+  "image": "http://facehoff.herokuapp.com/200/200",
+  "website": "http://beer.com",
+  "numberOfTables": "1",
+  "address": "33 Blackfriars Lane, London EC4V 6EP",
+  "keg": "no",
+  "lat": 51.513112,
+  "lng": -0.103193
+},
+{
+  "name": "The Clapton Hart",
+  "description": "Massivhwllo ahdja jashd jdadh asjdla lakjdaand one football table",
+  "image": "http://facehoff.herokuapp.com/200/200",
+  "website": "http://beer.com",
+  "numberOfTables": "1",
+  "address": "231 Lower Clapton Rd, London E5 8EG",
+  "keg": "no",
+  "lat": 51.557702,
+  "lng": -0.056173
+}
+]
